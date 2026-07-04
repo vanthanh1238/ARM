@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=LED24V-2
+Removed Pin From Net: NetName=24V Pin=R4-2
+Removed Member From Class: ClassName=version1 Member=LED24V
+Removed Member From Class: ClassName=version1 Member=R4
+Added Component: Designator=LED_24V(LED-3MM-WHITE)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH009001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "LED 3MM Tr?ng SS (1000c)"; VariantName = "[No Variations]"
+Added Component: Designator=R1(tro vach 1/2w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 5% 1/2w 220k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LED_24V-2
+Added Pin To Net: NetName=24V Pin=R1-1
+Added Pin To Net: NetName=NetLED_24V_1 Pin=LED_24V-1
+Added Pin To Net: NetName=NetLED_24V_1 Pin=R1-2
+Added Net: Name=NetLED_24V_1
+Added Member To Class: ClassName=version1 Member=Component LED_24V LED 3mm
+Added Member To Class: ClassName=version1 Member=Component R1 1k
+Added Room: Name=version1

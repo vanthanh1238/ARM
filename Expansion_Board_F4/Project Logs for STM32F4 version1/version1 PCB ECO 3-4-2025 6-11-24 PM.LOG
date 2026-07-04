@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=24V Pin=F1-1
+Removed Pin From Net: NetName=NetC12_1 Pin=F1-2
+Removed Member From Class: ClassName=version1 Member=F1
+Added Member To Class: ClassName=version1 Member=Component LED12V LED
+Added Room: Name=version1

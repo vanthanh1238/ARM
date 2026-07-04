@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Net Name : Old Net Name=NetC14_1 New Net Name=NetC12_1
+Added Member To Class: ClassName=version1 Member=Component C12 1000uF
+Added Member To Class: ClassName=version1 Member=Component C13 1000uF
+Added Member To Class: ClassName=version1 Member=Component C17 1000uF
+Added Room: Name=version1

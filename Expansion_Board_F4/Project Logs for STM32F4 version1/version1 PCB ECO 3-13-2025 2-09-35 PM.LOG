@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=5V Pin=C1-1
+Removed Pin From Net: NetName=PC6 Pin=C1-2
+Removed Pin From Net: NetName=PC7 Pin=C1-3
+Removed Pin From Net: NetName=GND Pin=C1-4
+Removed Member From Class: ClassName=version1 Member=C1
+Added Room: Name=version1

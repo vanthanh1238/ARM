@@ -1,0 +1,13 @@
+Added Component: Designator=J?(CON2_100_S2B-XH-A_TH_RA)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "TH-CON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Crimp Part Number"; Value = "ASXHSXH22K51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "S2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Part Number"; Value = "XHP-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "S2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "ARROW"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=version1 Member=Component C? 1000uF
+Added Member To Class: ClassName=version1 Member=Component C? 1000uF
+Added Member To Class: ClassName=version1 Member=Component C? 1000uF
+Added Member To Class: ClassName=version1 Member=Component J? S2B-XH-A(LF)(SN)

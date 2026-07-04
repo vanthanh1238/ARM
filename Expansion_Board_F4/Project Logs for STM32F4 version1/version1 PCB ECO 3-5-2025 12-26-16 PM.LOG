@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=5V Pin=H5V1-1
+Removed Pin From Net: NetName=GND Pin=H5V1-2
+Removed Pin From Net: NetName=5V Pin=H5V2-1
+Removed Pin From Net: NetName=GND Pin=H5V2-2
+Removed Pin From Net: NetName=12V Pin=H12V1-1
+Removed Pin From Net: NetName=GND Pin=H12V1-2
+Removed Pin From Net: NetName=12V Pin=H12V2-1
+Removed Pin From Net: NetName=GND Pin=H12V2-2
+Removed Pin From Net: NetName=24V Pin=H24V-1
+Removed Pin From Net: NetName=GND Pin=H24V-2
+Removed Member From Class: ClassName=version1 Member=H5V1
+Removed Member From Class: ClassName=version1 Member=H5V2
+Removed Member From Class: ClassName=version1 Member=H12V1
+Removed Member From Class: ClassName=version1 Member=H12V2
+Removed Member From Class: ClassName=version1 Member=H24V
+Added Component: Designator=12V1(HED2)
+Add component (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=H_5V1(HED2)
+Add component (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=H_5V2(HED2)
+Add component (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=H_12V2(HED2)
+Add component (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=H_24V(HED2)
+Add component (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=12V1-1
+Added Pin To Net: NetName=12V Pin=12V1-2
+Added Pin To Net: NetName=GND Pin=H_5V1-1
+Added Pin To Net: NetName=5V Pin=H_5V1-2
+Added Pin To Net: NetName=GND Pin=H_5V2-1
+Added Pin To Net: NetName=5V Pin=H_5V2-2
+Added Pin To Net: NetName=GND Pin=H_12V2-1
+Added Pin To Net: NetName=12V Pin=H_12V2-2
+Added Pin To Net: NetName=GND Pin=H_24V-1
+Added Pin To Net: NetName=24V Pin=H_24V-2
+Added Member To Class: ClassName=version1 Member=Component 12V1 Header 2
+Added Member To Class: ClassName=version1 Member=Component H_5V1 Header 2
+Added Member To Class: ClassName=version1 Member=Component H_5V2 Header 2
+Added Member To Class: ClassName=version1 Member=Component H_12V2 Header 2
+Added Member To Class: ClassName=version1 Member=Component H_24V Header 2
+Added Room: Name=version1

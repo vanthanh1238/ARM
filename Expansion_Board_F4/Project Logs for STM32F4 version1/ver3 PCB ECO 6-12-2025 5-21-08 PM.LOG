@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=H6 NewDesignator=Header_sonar1
+Change Component Designator: OldDesignator=H7 NewDesignator=Header_sonar2
+Added Room: Name=version1

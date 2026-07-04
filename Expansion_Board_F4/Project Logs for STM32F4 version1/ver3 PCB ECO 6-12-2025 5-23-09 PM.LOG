@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=H1 NewDesignator=H_CAN
+Change Component Designator: OldDesignator=H2 NewDesignator=H_PWM
+Change Component Designator: OldDesignator=H3 NewDesignator=H_SPI
+Change Component Designator: OldDesignator=H4 NewDesignator=H_ENC1
+Change Component Designator: OldDesignator=H5 NewDesignator=H_ENC2
+Change Net Name : Old Net Name=NetH1_1 New Net Name=NetH_CAN_1
+Change Net Name : Old Net Name=NetH1_2 New Net Name=NetH_CAN_2
+Added Room: Name=version1

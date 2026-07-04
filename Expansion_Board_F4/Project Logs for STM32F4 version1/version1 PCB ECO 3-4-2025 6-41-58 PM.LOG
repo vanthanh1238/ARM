@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=H1 NewDesignator=H_CAN
+Change Net Name : Old Net Name=NetH1_1 New Net Name=NetH_CAN_1
+Change Net Name : Old Net Name=NetH1_2 New Net Name=NetH_CAN_2
