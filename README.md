@@ -91,7 +91,7 @@ ARM/
 
 ## Contact & Attribution
 
-**Author**: Nguyen Minh Chuong
+**Author**: Nguyen Minh Chuong, Tran Huy Hoang Anh, Le Van Thanh
 
 ---
 
